@@ -9,9 +9,31 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% include base_path %}
+# Publications
 
+## Journal Papers
+Marta Guimarães, Cláudia Soares, Rodrigo Ventura, Decision Support Models for Predicting and Explaining Airport Passenger Connectivity from Data, IEEE Transactions on Intelligent Transportation Systems, vol. 23, no.9, pp. 16005-16015, 2022.
+<img align="left" width="80" height="80" src="https://raw.githubusercontent.com/akarsh/akarsh-seggemu-resume/master/akarsh%20seggemu%20resume/Assets/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png" alt="Paper">
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+# Resume application project
+
+## Conference Proceedings
+Marta Guimarães, Cláudia Soares, Chiara Manfletti, Predicting the Position Uncertainty at the Time of Closest Approach with Diffusion Models, 74th International Astronautical Congress, 2023.
+
+Marta Guimarães, Cláudia Soares, Chiara Manfletti, Statistical Learning of Conjunction Data Messages Through a Bayesian Non-Homogeneous Poisson Process, 74th International Astronautical Congress, 2023.
+
+Marta Guimarães, Cláudia Soares, Chiara Manfletti, Taxonomy for Resident Space Objects in LEO, 74th International Astronautical Congress, 2023.
+
+João Catulo, Cláudia Soares, Marta Guimarães, Predicting the Probability of Satellite Collisions using Bayesian Univariate Hidden Markov Model, 74th International Astronautical Congress, 2023.
+
+João Funenga, Cláudia Soares, Henrique Costa, Marta Guimarães, Finding Real-World Orbital Motion Laws from Data, 74th International Astronautical Congress, 2023.
+
+Ricardo Ferreira, Cláudia Soares, Marta Guimarães, Probability of Collision of satellites and space debris for short-term encounters: Rederivation and fast-to-compute upper and lower bounds, 74th International Astronautical Congress, 2023.
+
+Rasit Abay, Francisco Caldas, Mariana Filipe, Marta Guimarães, Benchmarking Machine Learning Models for Collision Risk Prediction in Low-Earth Orbit, 8th European Conference in Space Debris, 2021.
+
+## Conference Workshops
+Francisco Caldas, Cláudia Soares, Cláudia Nunes, Marta Guimarães, Mariana Filipe, Rodrigo Ventura, Conjunction Data Messages Behave as a Poisson Process, AI for Spacecraft Longevity, IJCAI, 2021.
+
+## MSc Thesis
+Marta Guimarães, Predicting Passenger’s connectivity in an Airline’s Hub Airport, Master Thesis, Instituto Superior Técnico, Universidade de Lisboa, 2021.
