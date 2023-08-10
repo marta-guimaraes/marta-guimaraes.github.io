@@ -15,4 +15,4 @@ ___
 
 # Recent News and Events
 
-{% include /_includes/news-gallery.html %}
+{% include_relative ../_includes/news-gallery.html %}
