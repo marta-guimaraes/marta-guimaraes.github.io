@@ -1,6 +1,9 @@
 ---
 title: "ML4Space Summer School"
-excerpt: "From September 1st to 8th, we will host [ML4Space](https://sites.google.com/view/ml4space), a Summer School dedicated to Machine Learning in the Space industry."
+excerpt: "📢 Calling all space enthusiasts and machine learning aficionados!
+
+We are thrilled to unveil the [ML4Space](https://sites.google.com/view/ml4space)! 🚀
+Are you passionate about space science and exploration? Do you want to delve into the cutting-edge world of machine learning and its applications in this exciting field? Look no further – this is the event you've been waiting for!"
 collection: news
 ---
 📢 Calling all space enthusiasts and machine learning aficionados!
@@ -12,8 +15,8 @@ We are proud to present a stellar lineup of leading experts such as [J. Nathan K
 
 These experts will showcase innovations in engineering and computer science, addressing key topics like pattern recognition, data analysis, the challenge of space debris, as well as presenting deep learning and machine learning tools.
 
-📍 [NOVA-FCT](https://www.fct.unl.pt/en) Campus (in sunny Caparica, near Lisbon)
-🗓️ 1-8 September
+📍 [NOVA-FCT](https://www.fct.unl.pt/en) Campus (in sunny Caparica, near Lisbon)  
+🗓️ 1-8 September  
 🔗 Registration is now open! Secure your spot by visiting our official [website](https://sites.google.com/view/ml4space)
 
 
