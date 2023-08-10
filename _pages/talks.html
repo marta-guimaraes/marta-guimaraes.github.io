@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-{% assign talk_posts = site.talks reversed %}
+{% assign talk_posts = site.talks | sort: 'date' | reverse %}
 {% assign num_columns = 2 %}
 {% assign posts_per_column = talk_posts.size | divided_by: num_columns | ceil %}
 {% assign gallery_layout = 'news-gallery' %}
