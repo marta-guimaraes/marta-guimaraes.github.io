@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %} -->
 
-{{% assign talk_posts = site.talks | sort: 'date' | reverse %}
+{% assign talk_posts = site.talks | sort: 'date' | reverse %}
 {% assign num_columns = 2 %}
 {% assign posts_per_column = talk_posts.size | divided_by: num_columns | ceil %}
 {% assign gallery_layout = 'news-gallery' %}
@@ -31,7 +31,6 @@ author_profile: true
       <p><strong>Venue:</strong> {{ post.venue }}</p> <!-- Add venue -->
       <p><strong>Location:</strong> {{ post.location }}</p> <!-- Add location -->
       <br>
-      <p>{{ post.description }}</p>
       <a href="{{ post.full_post_url }}">Read More</a>
     </div>
 
