@@ -1,0 +1,23 @@
+/* news-gallery.css */
+
+.news-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .news-item {
+    flex-basis: calc(50% - 20px);
+    padding: 20px;
+    border: 1px solid #ddd;
+    background-color: #f9f9f9;
+  }
+  
+  .news-image {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  /* Add any additional styles as needed */
+  
