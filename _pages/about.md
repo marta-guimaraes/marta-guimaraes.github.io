@@ -14,7 +14,7 @@ I have a general interest in Machine Learning and Deep Learning, but I have been
 # Recent News and Events
 
 <div class="gallery">
-{% assign news_posts = site.posts | sort: 'name' | reverse %}
+{% assign news_posts = site.news | sort: 'name' | reverse %}
 {% for post in news_posts limit: 2 %}
   <div class="{{ gallery_layout }}">
     <h3>{{ post.title }}</h3>
