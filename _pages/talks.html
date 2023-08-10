@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %} -->
 
-{% assign talk_posts = site.talks | sort: 'date' | reverse %}
+{% assign talk_posts = site.talks reversed %}
 {% assign num_columns = 2 %}
 {% assign posts_per_column = talk_posts.size | divided_by: num_columns | ceil %}
 {% assign gallery_layout = 'news-gallery' %}
@@ -28,9 +28,9 @@ author_profile: true
     <div class="news-item">
       <h3><a href="{{ post.full_post_url }}">{{ post.title }}</a></h3>
       <img src="{{ post.image_path | prepend: "/images/" | prepend: base_path }}" alt="{{ post.title }}" class="news-image">
+      <br>
       <p><strong>Venue:</strong> {{ post.venue }}</p> <!-- Add venue -->
       <p><strong>Location:</strong> {{ post.location }}</p> <!-- Add location -->
-      <br>
       <a href="{{ post.full_post_url }}">Read More</a>
     </div>
 
@@ -40,4 +40,3 @@ author_profile: true
     {% endif %}
   {% endfor %}
 </div>
-
