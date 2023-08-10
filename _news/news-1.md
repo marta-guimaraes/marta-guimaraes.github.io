@@ -4,7 +4,7 @@ excerpt: "📢 Calling all space enthusiasts and machine learning aficionados! W
 description: "📢 Calling all space enthusiasts and machine learning aficionados! We are thrilled to unveil the ML4Space! 🚀 Are you passionate about space science and exploration? Do you want to delve into the cutting-edge world of machine learning and its applications in this exciting field? Look no further – this is the event you've been waiting for!"
 collection: news
 full_post_url: "/news/news-1/"
-image_path: "images/ml4space.png"
+image_path: "ml4space.png"
 ---
 📢 Calling all space enthusiasts and machine learning aficionados!
 
