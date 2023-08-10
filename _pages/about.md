@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 --- -->
 ---
+permalink: /
 layout: default
 title: Home
 ---
