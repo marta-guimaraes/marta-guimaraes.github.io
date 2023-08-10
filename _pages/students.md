@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-# MSc
+## MSc Theses
 *Predicting the Probability of Collision of a Satellite with Space Debris: A Bayesian Machine Learning Approach* (with Pr. Cláudia Soares and Pr. Francisco Alegria, 2022)  
 Student: João Catulo (Instituto Superior Técnico, Universidade de Lisboa)  
 Grade: 19/20

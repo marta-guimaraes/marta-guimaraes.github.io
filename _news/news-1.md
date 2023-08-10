@@ -1,6 +1,20 @@
 ---
 title: "ML4Space Summer School"
+excerpt: "From September 1st to 8th, we will host [ML4Space](https://sites.google.com/view/ml4space), a Summer School dedicated to Machine Learning in the Space industry."
 collection: news
 ---
+📢 Calling all space enthusiasts and machine learning aficionados!
 
-From September 1st to 8th, we will host [ML4Space](https://sites.google.com/view/ml4space), a Summer School dedicated to machine learning in the space industry. 
+We are thrilled to unveil the [ML4Space](https://sites.google.com/view/ml4space)! 🚀
+Are you passionate about space science and exploration? Do you want to delve into the cutting-edge world of machine learning and its applications in this exciting field? Look no further – this is the event you've been waiting for!
+
+We are proud to present a stellar lineup of leading experts such as [J. Nathan Kutz](https://faculty.washington.edu/kutz/) from the University of Washington (USA), aerospace and mechanical engineer [Massimiliano Vasile](https://www.strath.ac.uk/staff/vasilemassimilianoprof/) from the University of Strathclyde (Scotland), and robotics professor and aerospace engineer [Zachary Manchester](https://www.ri.cmu.edu/ri-faculty/zachary-manchester/) from Carnegie Mellon University (USA).
+
+These experts will showcase innovations in engineering and computer science, addressing key topics like pattern recognition, data analysis, the challenge of space debris, as well as presenting deep learning and machine learning tools.
+
+📍 [NOVA-FCT](https://www.fct.unl.pt/en) Campus (in sunny Caparica, near Lisbon)
+🗓️ 1-8 September
+🔗 Registration is now open! Secure your spot by visiting our official [website](https://sites.google.com/view/ml4space)
+
+
+Don't miss out on this opportunity to expand your knowledge, gain insights from experts, and be a part of the next big leap in space science and machine learning. 🚀
