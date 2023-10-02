@@ -19,8 +19,7 @@ author_profile: true
       <h3><a href="{{ post.full_post_url }}">{{ post.title }}</a></h3>
       <img src="{{ post.image_path | prepend: "/images/" | prepend: base_path }}" alt="{{ post.title }}" class="news-image">
       <br>
-      <p><strong>Venue:</strong> {{ post.venue }}</p> <!-- Add venue -->
-      <p><strong>Location:</strong> {{ post.location }}</p> <!-- Add location -->
+      <p>{{ post.description }}</p>
       <a href="{{ post.full_post_url }}">Read More</a>
     </div>
 
