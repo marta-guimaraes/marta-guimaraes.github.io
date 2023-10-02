@@ -1,6 +1,6 @@
 ---
 title: "AI for Space Traffic Management"
-excerpt: "📢 Our latest work, AI for Space Traffic Management, authored by Chiara Manfletti, Cláudia Soares and myself, has been published in the Journal of Space Safety Engineering 🚀 Check out the paper [here] (https://www.sciencedirect.com/science/article/abs/pii/S2468896723000897)"
+excerpt: "📢 Our latest work, AI for Space Traffic Management, authored by Chiara Manfletti, Cláudia Soares and myself, has been published in the Journal of Space Safety Engineering 🚀 Check out the paper [here](https://www.sciencedirect.com/science/article/abs/pii/S2468896723000897)"
 description: "📢 Our latest work, AI for Space Traffic Management, authored by Chiara Manfletti, Cláudia Soares and myself, has been published in the Journal of Space Safety Engineering 🚀 Check out the paper!"
 collection: news
 full_post_url: "/news/news-2/"
@@ -17,5 +17,5 @@ This paper explores the potential of AI for Space and presents some of the advan
 Further, the paper addresses the need for a more active role of the private sector and an evolution of the role of the public sector to foster space sustainability and support the growth companies leading this effort.
 
 
-📄 Check the full paper [here] (https://www.sciencedirect.com/science/article/abs/pii/S2468896723000897)
-🔗 Check more details [here] (https://www.linkedin.com/pulse/journal-ai-space-traffic-management-neuraspace/?trackingId=xoYHUhFo%2B2nfWU%2BMH3XRRQ%3D%3D)
+📄 Check the full paper [here](https://www.sciencedirect.com/science/article/abs/pii/S2468896723000897)  
+🔗 Check more details [here](https://www.linkedin.com/pulse/journal-ai-space-traffic-management-neuraspace/?trackingId=xoYHUhFo%2B2nfWU%2BMH3XRRQ%3D%3D)
