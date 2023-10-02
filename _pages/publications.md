@@ -10,6 +10,9 @@ author_profile: true
 {% endif %}
 
 ## Journal Papers
+Chiara Manfletti, **Marta Guimarães**, Cláudia Soares, AI for Space Traffic Management, Journal of Space Safety Engineering, 2023.  
+📄 [Paper](https://www.sciencedirect.com/science/article/abs/pii/S2468896723000897)
+
 **Marta Guimarães**, Cláudia Soares, Rodrigo Ventura, Decision Support Models for Predicting and Explaining Airport Passenger Connectivity from Data, IEEE Transactions on Intelligent Transportation Systems, vol. 23, no.9, pp. 16005-16015, 2022.  
 📄 [Paper](https://ieeexplore.ieee.org/abstract/document/9712170?casa_token=2c6KfhrpDTEAAAAA:VenB1j0ADint52gHimZRgYaeKiYQcuFGkxUDkqkVQ5CJEnUfTPDLc_7k7x7r-Ht-gKRu1NJ1TA)
 
