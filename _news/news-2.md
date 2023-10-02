@@ -1,0 +1,21 @@
+---
+title: "AI for Space Traffic Management"
+excerpt: "📢 Our latest work, AI for Space Traffic Management, authored by Chiara Manfletti, Cláudia Soares and myself, has been published in the Journal of Space Safety Engineering 🚀 Check out the paper [here] (https://www.sciencedirect.com/science/article/abs/pii/S2468896723000897)"
+description: "📢 Our latest work, AI for Space Traffic Management, authored by Chiara Manfletti, Cláudia Soares and myself, has been published in the Journal of Space Safety Engineering 🚀 Check out the paper!"
+collection: news
+full_post_url: "/news/news-2/"
+image_path: "ai_for_space_traffic_management.jpeg"
+---
+📢 Our latest work, AI for Space Traffic Management, authored by Chiara Manfletti, Cláudia Soares and myself, has been published in the Journal of Space Safety Engineering 🚀
+
+🛰️ Morgan Stanley forecasts the space industry to top 1 trillion dollars by 2040. Of these 1 trillion dollars, 1.5 billion dollars are expected to be the contribution of the space situational market alone.
+
+Satellite operators are already paying the price of space debris. Current approaches for collision avoidance and space traffic management face serious challenges, mainly: (1) Insufficient data and endangered autonomy of action in space; (2) A high number of false alerts and a large uncertainty; (3) Lack of scalability and automation for an increasing number of assets.
+
+This paper explores the potential of AI for Space and presents some of the advances made by Neuraspace in Space Traffic Management, including the analysis of conjunction data messages (CDMs), predicting uncertainties, and risk classification, and the economic benefits of new approaches.
+
+Further, the paper addresses the need for a more active role of the private sector and an evolution of the role of the public sector to foster space sustainability and support the growth companies leading this effort.
+
+
+📄 Check the full paper [here] (https://www.sciencedirect.com/science/article/abs/pii/S2468896723000897)
+🔗 Check more details [here] (https://www.linkedin.com/pulse/journal-ai-space-traffic-management-neuraspace/?trackingId=xoYHUhFo%2B2nfWU%2BMH3XRRQ%3D%3D)
