@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Fillustration%2Fastronaut-coding-in-space-11085312&psig=AOvVaw2Cu_8EbDSobUuqzal2MYue&ust=1745784751486000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDq-5PB9owDFQAAAAAdAAAAABAE"/>
+  <img src="public/assets/favicon.png" width="120" height="120"/>
 </p>
 <h1 align="center">
   marta-guimaraes.github.io
