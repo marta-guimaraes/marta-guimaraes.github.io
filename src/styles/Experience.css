@@ -1,0 +1,139 @@
+#experience {
+  min-height: 50vh;
+  margin: auto;
+  max-width: 1000px;
+  padding-top: 100px;
+}
+
+/* Title */
+.joblist-job-title {
+  font-family: "NTR", sans-serif;
+  font-size: 28px;
+  font-weight: bold;
+  color: var(--lightest-slate);
+}
+
+/* Company */
+.joblist-job-company {
+  font-family: "NTR", sans-serif;
+  font-size: 28px;
+  color: var(--accent-primary);
+  font-weight: bold;
+}
+
+/* Duration */
+.joblist-duration {
+  font-family: "NTR", sans-serif;
+  font-size: 18px;
+  color: var(--slate);
+}
+
+/* Vertical tab panel */
+#vertical-tabpanel {
+  margin-top: -28px;
+  padding-left: 25px;
+}
+
+/* Tabs */
+.MuiTab-wrapper {
+  font-size: 16px;
+  text-align: left;
+  align-items: flex-start !important;
+  font-family: "NTR", sans-serif;
+}
+
+/* Button base */
+.MuiButtonBase-root {
+  outline: none !important;
+  color: var(--lightest-slate) !important;
+  /* Unselected tabs color */
+}
+
+/* Selected tab */
+.Mui-selected {
+  color: var(--accent-primary) !important;
+  /* Selected tab color */
+}
+
+/* Tab indicator (the vertical slider line) */
+.MuiTabs-indicator {
+  background-color: var(--accent-primary) !important;
+}
+
+/* Horizontal border line between tabs */
+.makeStyles-tabs-2 {
+  border-right: 1px solid var(--lightest-navy) !important;
+}
+
+/* Tab padding */
+#experience .MuiTab-root {
+  padding: 6px 20px;
+}
+
+/* Tab focus */
+.MuiButtonBase-root:focus {
+  color: var(--accent-primary) !important;
+  /* Use primary color on focus */
+}
+
+/* Job description list */
+ul {
+  list-style: none;
+  margin-left: -40px;
+}
+
+.job-description li::before {
+  content: "▹    ";
+  color: var(--accent-secondary);
+  /* Icon before bullet points */
+  position: absolute;
+  left: 0;
+}
+
+.job-description li {
+  position: relative;
+  padding-left: 30px;
+  padding-bottom: 16px;
+  font-size: 18px;
+  color: var(--slate);
+}
+
+.job-description {
+  padding-top: 24px;
+  max-width: 650px;
+  font-family: "NTR", sans-serif;
+  font-size: 20px;
+}
+
+.job-description a,
+.job-description b {
+  font-size: 19px;
+  font-weight: bold;
+}
+
+/* Responsive */
+@media only screen and (max-width: 600px) {
+  #experience {
+    padding-left: unset;
+    padding-right: unset;
+  }
+
+  .jss1 {
+    height: unset !important;
+    flex-direction: column !important;
+  }
+
+  .makeStyles-root-1 {
+    height: unset !important;
+    width: unset;
+    flex-direction: column;
+  }
+
+  .joblist-job-title {
+    font-size: 22px;
+  }
+
+  .joblist-job-company {
+    font-size: 22px;
+  }
+}

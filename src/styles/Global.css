@@ -1,0 +1,22 @@
+:root {
+  /* Backgrounds */
+  --dark-navy: #0a0a0f;
+  --navy: #0f0e17;
+  --light-navy: #1a1b2e;
+  --lightest-navy: #252641;
+  --navy-shadow: rgba(10, 10, 15, 0.7);
+
+  /* Text */
+  --slate: #b3b5c6;
+  --light-slate: #d8d8e3;
+  --lightest-slate: #f5f5fa;
+  --white: #ffffff;
+
+  /* Accent colors */
+  --accent-primary: #ff6b35;
+  /* Fiery orange */
+  --accent-secondary: #8e44ad;
+  /* Rich purple */
+  --accent-tint: rgba(255, 107, 53, 0.1);
+  /* soft orange glow */
+}
