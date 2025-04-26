@@ -47,7 +47,7 @@ class Papers extends React.Component {
 
         <div className="see-more-container">
           <a
-            href="https://scholar.google.com/your-profile-link"
+            href="https://scholar.google.com/citations?hl=en&user=d5GmOvIAAAAJ"
             className="see-more-button"
             target="_blank"
             rel="noopener noreferrer"
