@@ -33,7 +33,7 @@ const ThreeBody = () => {
     };
 
     p5.draw = () => {
-      p5.background(15, 16, 26, 80);
+      p5.background(15, 14, 23, 100);
       p5.translate(p5.width / 2 - centerX * scale, p5.height / 2 - centerY * scale);
 
       const keys = Object.keys(orbitData);
